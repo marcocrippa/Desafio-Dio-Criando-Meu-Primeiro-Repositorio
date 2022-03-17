@@ -1,0 +1,5 @@
+git branch: mostra os branches que existem
+
+git branch "escreva aqui": cria um novo branch com o nome escrito
+
+git checkout "nome do branch": muda para a branch selecionada
