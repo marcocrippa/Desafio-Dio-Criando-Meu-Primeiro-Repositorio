@@ -1,0 +1,4 @@
+git reflog: mostra todas as versoes salvas e seus ID
+
+git reset --hard id_da_versao: muda o repositorio local para a versao escolhida 
+

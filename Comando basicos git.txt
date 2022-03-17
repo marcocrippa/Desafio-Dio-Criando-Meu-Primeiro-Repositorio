@@ -1,12 +1,12 @@
 git clone: clona o repostiro do github para a pasta atual do git bash
 
+git init: cria o repositorio do controle de versoes
+
 git status: verifica o status para ver se houve alguma alteracao em arquivos ou se foi criado algo novo
 
 git add . : adiciona todas os arquivos novos e mudancas para o controle de versao
 
 git commit -m "escreva aqui": cria uma nova versao das mudancas previamente enviadas junto a mensagem escrita por quem salvou
-
-git remote -add
 
 git push: envia a ultima versao salva para o github
 
