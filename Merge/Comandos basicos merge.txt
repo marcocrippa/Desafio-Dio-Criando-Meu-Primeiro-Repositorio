@@ -1,0 +1,3 @@
+git pull: tras as ultimas atualizacoes do servidor para a maquina local (sempre usar para ter cereteza de estar trabalhando com os dados mais atualizados)
+
+git merge "nome da branch": puxa as atualizacoes da branch selecionada para a branch atual
